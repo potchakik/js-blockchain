@@ -4,6 +4,7 @@
     "crypto": "^1.0.1",
     "dat-swarm-defaults": "^1.0.3",
     "discovery-swarm": "^6.1.0",
+    "elliptic": "^6.5.4",
     "get-port": "^5.1.1",
     "level": "^8.0.0",
     "moment": "^2.29.4"
